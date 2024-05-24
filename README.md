@@ -20,7 +20,9 @@ Les aplicacions educatives interactives, com "Kahoot!", integren elements de joc
 
 ### Referències y Bibliografia
 
-* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
+* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
+* Kahoot! (2024). En Viquipèdia, l’enciclopèdia lliure. https://ca.wikipedia.org/w/index.php?title=Kahoot!&oldid=33394001
+* Black Mirror: Bandersnacht. (2024). En Viquipèdia, l’enciclopèdia lliure. https://ca.wikipedia.org/w/index.php?title=Black_Mirror:_Bandersnacht&oldid=33360966
 
 
 ----
