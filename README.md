@@ -2,7 +2,7 @@
 
 Autor: Max Besora Torrentellé
 
-Data: 23/05/2024 
+Data: 27/05/2024 
 
 
 ## Plantejament
@@ -18,7 +18,7 @@ Les aplicacions educatives interactives, com "Kahoot!", integren elements de joc
 
 
 
-### Referencies y Bibliografía
+### Referències y Bibliografia
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
 
